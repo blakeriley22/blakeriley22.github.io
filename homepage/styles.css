@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    background-color: blue;
+    margin:
+  }
+#blake {
+      width: 300px;
+  }
+.container {
+      width: 80%;
+      margin: auto;
+  }
+p{
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin: 100px
+  }
+body{
+  background-color: lightblue;
+
+}
+
+.container {
+    position: relative;
+  }
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+
+img {
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+  }
